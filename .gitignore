@@ -1,3 +1,11 @@
+# Data files to ignore
+bom.movie_gross.csv
+im.db
+rt.movie_info.tsv
+rt.reviews.tsv
+tmdb.movies.csv
+tn.movie_budgets.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
