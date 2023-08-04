@@ -12,6 +12,14 @@ In the history of the cinematography industry, remarkable movies such as 'Avatar
 
 
 ## **Data**
+![image](https://github.com/pmjustafort/Film_Data_Analysis/assets/137816262/ec5d8823-fc9a-460e-951d-5cb440d2e891)
+
+![image](https://github.com/pmjustafort/Film_Data_Analysis/assets/137816262/d16af854-00c6-4c83-9156-5036e48ac90b)
+
+![image](https://github.com/pmjustafort/Film_Data_Analysis/assets/137816262/78c13d57-d650-4946-9d03-f6de6cef50f2)
+
+![image](https://github.com/pmjustafort/Film_Data_Analysis/assets/137816262/3296d911-4b65-4458-b20f-f0a44b5b4b22)
+
 ![image](https://github.com/pmjustafort/Film_Data_Analysis/assets/137816262/3cb6288c-7d74-4471-a89d-0efdec051b09)
 
 For this project, we meticulously collected and cleaned comprehensive data from five prominent databases within the film industry: [Box Office Mojo](https://www.boxofficemojo.com/), [Internet Movie Database (IMDB)](https://www.imdb.com/), [Rotten Tomatoes](https://www.rottentomatoes.com/), [The Movie Database (TMDB)](https://www.themoviedb.org/), and [The Numbers Movie Budget](https://www.the-numbers.com/). From Box Office Mojo, we extracted valuable information on 3,387 movies released between 2010 and 2018, encompassing details such as title, studio, domestic gross, foreign gross, and year of release. IMDB proved to be an invaluable resource, supplying an extensive dataset covering over 146,000 movies with attributes like title, duration, rating, actors, directors, and writers. The Movie Database (TMDB) enriched our analysis with additional movie-related metadata, including posters, release dates, plot summaries, and production details. The Numbers Movie Budget contributed essential financial insights, including production budgets, domestic box office earnings, and worldwide box office earnings.
