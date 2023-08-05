@@ -22,7 +22,21 @@ In this project, a robust data processing approach was employed, which included 
 
 ## **Data Understanding**
 
+Our raw data had multiple common keys that allowed us to create a master dataframe contained director data, genre data, budget data, and revenue data. The final cleaned dataset ranged from 2010-2019, and we computed the ROI of each data entry as the ratio of profit (revenue minus budget)to budget.
+
 ## **Results**
+
+![Genre ROI Distribution](./img/roi_boxplot_genre.png)
+
+Our results show that the highest ROI genres were Mystery and Horror. These are low-bugdget genres that yield the highest relative profitability; on the more expensive end, Action and Adventure also yield a high ROI, though these require more production value and thus are more expensive to make. 
+
+For Mystery and Horror, the two leading directors in these genres are Steven Soderbergh and Paul W.S. Anderson by ROI.
+
+![Highest ROI Directors for Mystery and Horror](./img/mystery_horror_director_roi.png)
+
+For Blockbusters, Bryan Singer takes the top seat.
+
+![Highest ROI Directors for Blockbusters](./img/blockbuster_roi.png)
 
 ## **Conclusions**
 Based on the analysis, several key factors have been identified that can significantly influence the success of your film project:
@@ -44,3 +58,15 @@ This would significantly strengthen our ability to provide more tailored and eff
 For a more comprehensive understanding, you can explore the full analysis in the Jupyter Notebook and access our interactive Tableau Dashboard which provides a comprehensive visual representation of the data, enabling deeper exploration and analysis.
 
 ## **Repository Structure**
+
+Repository Structure:
+```
+.
+├── README.md
+├── LICENSE
+├── EDA (Rough).ipynb
+├── EDA (Final).ipynb
+├── .gitignore
+├── img/
+└── cleaned_data/
+```
